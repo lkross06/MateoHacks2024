@@ -9,7 +9,7 @@ import shutil
 
 #literals
 __REDIS_PORT = 6379
-__DATABASE_FILE_NAME = "lab4.db"
+__DATABASE_FILE_NAME = "db.db"
 __ASCII_NUM_START = 48 #used for generated random alphanumeric symbols
 __ASCII_NUM_END = 57
 __ASCII_ALPHA_START = 97
